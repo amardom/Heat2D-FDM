@@ -1,0 +1,16 @@
+solver 0
+
+Lx 1
+Ly 5
+Nx 5
+Ny 15
+
+n_timestamps 1000
+dt 10
+
+alpha 9.7e-5
+
+dir_left 500
+neu_top 100
+neu_right 100
+dir_bottom 100
