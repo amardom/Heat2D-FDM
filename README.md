@@ -7,3 +7,8 @@ Equation:
 
 ∂T/∂t - αΔT = q
  
+
+Features:
+
+- C++
+- Implicit scheme.
